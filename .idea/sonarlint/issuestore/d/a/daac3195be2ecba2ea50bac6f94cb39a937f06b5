@@ -1,0 +1,17 @@
+
+_
+java:S2259H"BA "NullPointerException" could be thrown; "conn" is nullable here.(…»‘Š8¥ûÏêé1
+_
+java:S2259$"BA "NullPointerException" could be thrown; "conn" is nullable here.(ªƒíÈ8æêÒêé1
+_
+java:S2259U"BA "NullPointerException" could be thrown; "conn" is nullable here.(…»‘Š8¥ûÏêé1
+_
+java:S2259"BA "NullPointerException" could be thrown; "conn" is nullable here.(…»‘Š8¥ûÏêé1
+_
+java:S22596"BA "NullPointerException" could be thrown; "conn" is nullable here.(…»‘Š8íêÓêé1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ªûÏêé1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8«ûÏêé1
+L	java:S106."+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8°ûÏêé1
+L	java:S106?"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8²ûÏêé1
+L	java:S106N"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8÷êÒêé1
+L	java:S106Y"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ëÓêé1

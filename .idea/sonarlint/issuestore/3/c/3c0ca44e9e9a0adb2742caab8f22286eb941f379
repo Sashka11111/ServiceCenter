@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚λτ΅ώÿÿÿÿ8‚γ§λι1
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(«¤άΥ8‚γ§λι1
+g	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8σύ§λι1
+g	java:S112|"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Δ©¨λι1
+o
+java:S1192 "MDefine a constant instead of duplicating this literal "Test Product" 4 times.(ΠνΘωÿÿÿÿ8‚γ§λι1
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‚λτ΅ώÿÿÿÿ8γ§λι1
