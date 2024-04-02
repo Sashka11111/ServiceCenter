@@ -24,7 +24,7 @@ public class RepairDaoTest {
   }
 
   @Test
-  public void testAddRepair() {
+  public void addRepair() {
     UUID repairId = UUID.randomUUID();
     UUID customerId = UUID.randomUUID();
     UUID productId = UUID.randomUUID();
@@ -44,7 +44,7 @@ public class RepairDaoTest {
   }
 
   @Test
-  public void testGetAllRepairs() {
+  public void getAllRepairs() {
     // Отримання списку всіх ремонтів
     List<Repair> repairs = repairDao.getAllRepairs();
 
@@ -54,7 +54,7 @@ public class RepairDaoTest {
   }
 
   @Test
-  public void testGetRepairById() {
+  public void getRepairById() {
     // Підготовка вхідних даних
     UUID repairId = UUID.randomUUID();
     UUID customerId = UUID.randomUUID();
@@ -73,7 +73,7 @@ public class RepairDaoTest {
   }
 
   @Test
-  public void testUpdateRepair() {
+  public void updateRepair() {
     // Підготовка тестових даних
     UUID repairId = UUID.randomUUID();
     UUID customerId = UUID.randomUUID();
@@ -105,7 +105,7 @@ public class RepairDaoTest {
   }
 
   @Test
-  public void testDeleteRepair() throws SQLException {
+  public void deleteRepair() throws SQLException {
     // Підготовка вхідних даних
     UUID repairId = UUID.randomUUID();
     UUID customerId = UUID.randomUUID();
